@@ -1,4 +1,4 @@
-# Netflix Clone (Frontend)
+# Netflix Clone (Backend)
 <p align="left">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Relirk/netflix-clone-frontend">
 
